@@ -171,9 +171,3 @@ if (p1FinalScore > p2FinalScore){
     console.log ("No winner, it's a tie!");
 }
 
-//funtion to iterate through turns array
-    //player plays 1 card each turn
-    //player with the higher card is awarded 1 point
-    //do nothing for a tie
-    //remove card from hand
-    //display score and declare the winner
